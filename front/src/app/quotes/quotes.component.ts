@@ -2,8 +2,7 @@ import {Component, OnInit} from '@angular/core';
 import {QuoteService} from "../quote.service";
 import {Quote} from "../quote.interface";
 import {Response} from "@angular/http";
-import {QuoteService} from "../quote.service";
-import {Component, OnInit} from "@angular/core";
+
 
 @Component({
     selector: 'app-quotes',
